@@ -1,4 +1,4 @@
-# 深入浅出PyTorch
+# 深入浅出PyTorch from datawhale
 **在线阅读地址**：https://datawhalechina.github.io/thorough-pytorch/
 
 **配套视频教程**：https://www.bilibili.com/video/BV1L44y1472Z
